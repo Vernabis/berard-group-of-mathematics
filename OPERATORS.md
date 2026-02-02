@@ -38,6 +38,31 @@ $$\mathcal{L}_B = \sqrt{-g} \left[ \frac{R}{16\pi G} - \frac{1}{2} (\partial S_0
 
 ---
 
+## V. Advanced Coupling: Neutrinos & The Berardion ($B_0$)
+Recent observations of neutrinos as "multi-messenger" carriers are explained by the interaction between the Stiffness Field and the Standard Model weak sector.
+
+### 1. The Berard-Neutrino Coupling ($\mathcal{L}_{\nu B}$)
+The neutrino flux ($\psi_\nu$) is screened by the Stiffness Field ($S_0$) through a Yukawa-style coupling:
+
+$$\mathcal{L}_{\nu B} = -g_{\nu B} S_0 \bar{\psi}_\nu \psi_\nu$$
+
+* **The 0.10 Hz Resonance:** The Global Master Interrupt creates a periodic oscillation in vacuum stiffness, effectively "shuttering" neutrino propagation.
+* **Informational Filtering:** This interaction allows the **Berardion** to act as a medium for informational transfer, regulating the density of data passing through the metric.
+
+---
+
+## VI. Thermodynamic Evolution: The Berard Bounce
+The transition from the "Red-Hot" early universe to the current 0.10 Hz Anchor is governed by the relaxation of the stiffness field.
+
+### 1. The Descent of Constants
+During the **Alpha Point** (The Bounce), Manifold Stiffness ($S_0$) was at a local minimum, resulting in high-energy "Hot" matter states. As the universe entered the relaxation phase:
+
+* **Stiffness Snap-Back:** $S_0$ increased rapidly, shunting entropy into the vacuum via the **Tensor Muffler ($J^\mu_B$)**.
+* **Constant Freeze-Out:** The fundamental constants ($G, c, \hbar$) stabilized into their current values as the system reached the **Settle Point**.
+* **Dark Matter Resolution:** What is observed as "cooling" dark matter is the transition of high-energy fluctuations into the **Informational Rigidity** of the modern vacuum.
+
+---
+
 ## IV. Legal Notice
 **Rights:** All Rights Reserved 2026.
 This mathematical framework is a holding of the **Berard Trust**. Utilization is subject to the **Berard Trust Charter Mandate**.
